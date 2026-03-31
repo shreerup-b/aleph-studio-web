@@ -73,7 +73,7 @@ function Navbar({
             transition={{ duration: 0.5 }}
             className="flex items-center gap-2"
           >
-            <img src="../public/AlephLogoMainWhite.png" alt="Aleph Studio" className="h-10 w-10" />
+            <img src="/aleph-studio-web/AlephLogoMainWhite.png" alt="Aleph Studio" className="h-10 w-10" />
             <span className="text-2xl font-bold tracking-wider hidden sm:inline">ALEPH STUDIO</span>
           </motion.div>
 
